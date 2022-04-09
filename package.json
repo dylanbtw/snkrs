@@ -27,7 +27,7 @@
     "eventemitter2": "^5.0.1",
     "express": "^4.14.0",
     "express-handlebars": "^3.0.0",
-    "moment": "^2.23.0",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.2.2",
     "mongoose": "^5.3.13",
     "socket.io": "^2.2.0",
